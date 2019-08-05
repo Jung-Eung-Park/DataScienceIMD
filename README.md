@@ -1,6 +1,6 @@
-#What is Data Science? [pdf] 
+# What is Data Science? [pdf] 
 
-![DataScienceDiagram.tiff](src)
+![Image](./image/diagrams.tif)
 
 Data Science is a multidisciplinary field that combines information technology (IT), statistics and management study.
 
@@ -19,7 +19,7 @@ Jung PARK (jung.park@imd.org)
 Research Fellow in Data Science
 
 
-#Five Processes in Data Science
+# Five Processes in Data Science
 
 ![Image](src)
 
